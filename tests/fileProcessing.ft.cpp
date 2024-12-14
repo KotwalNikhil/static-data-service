@@ -52,6 +52,6 @@ TEST_F(FileProcessingTest, MergeSortedFiles) {
         ++lineCount;
     }
 
-    ASSERT_EQ(lineCount, 5120); // 512 files with 5120 lines each
+    ASSERT_EQ(lineCount, 5120); // 512 files with 10 lines each
     outputFile.close();
 }

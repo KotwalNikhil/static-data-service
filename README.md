@@ -2,7 +2,7 @@
 
 ## Overview
 
-The assignment provides an implementation for handling large static data files with support for multithreading, priority-based data handling, and file management.
+The assignment provides an implementation for handling large static data files. Read and merge large sorted big files in chunks with support of multithreading, priority-based data handling, and file management.
 
 ## Problem Statement
 

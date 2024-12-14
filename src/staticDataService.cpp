@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// TODO: Seprate all the configs from production code
+// TODO: Add logger for logging instead of cout, cerr
+
 int main() {
 
     std::string directory_path = "/home/nikhilsingh/work/cpp/multiThreading/static_data";
